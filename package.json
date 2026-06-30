@@ -1,0 +1,19 @@
+{
+  "name": "pi-usage-meter",
+  "version": "0.1.0",
+  "description": "Per-minute usage meter for Z.ai and Kimi for Coding in Pi",
+  "keywords": [
+    "pi-package",
+    "pi-extension"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "pi": {
+    "extensions": [
+      "./extensions"
+    ]
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*"
+  }
+}
