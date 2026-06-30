@@ -66,3 +66,7 @@ Auth is resolved through Pi itself (`ctx.modelRegistry.getApiKeyForProvider`), s
 
 For Z.ai, the extension calls `https://api.z.ai/api/monitor/usage/quota/limit`.
 For Kimi, it calls `https://api.kimi.com/coding/v1/usages` (override with `KIMI_CODE_BASE_URL`).
+
+## License
+
+Licensed under the [Unenshittifiable License (UEL) v1.0](https://uelicense.eu). Use it, fork it, learn from it, self-host it, improve it — just don't turn the commons into a toll booth.

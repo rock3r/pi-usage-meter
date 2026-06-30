@@ -6,7 +6,7 @@
     "pi-package",
     "pi-extension"
   ],
-  "license": "MIT",
+  "license": "Unenshittifiable License (UEL) v1.0",
   "type": "module",
   "pi": {
     "extensions": [
