@@ -7,6 +7,14 @@
     "pi-extension"
   ],
   "license": "Unenshittifiable License (UEL) v1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rock3r/pi-usage-meter.git"
+  },
+  "homepage": "https://github.com/rock3r/pi-usage-meter#readme",
+  "bugs": {
+    "url": "https://github.com/rock3r/pi-usage-meter/issues"
+  },
   "type": "module",
   "pi": {
     "extensions": [

@@ -22,6 +22,12 @@ The first value is the usage window label (`5h`/`wk` for Z.ai, `7d`/`5h` for Kim
 
 ## Install
 
+From GitHub:
+
+```bash
+pi install git:github.com/rock3r/pi-usage-meter
+```
+
 From the checked-out repo:
 
 ```bash
